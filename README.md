@@ -6,7 +6,7 @@ Provisioning AWS infrastructure using Terraform (Infrastructure as Code).
 
 
 
-\## Project Overview
+## Project Overview
 
 This project demonstrates how to provision AWS cloud resources automatically 
 
@@ -14,7 +14,7 @@ using Terraform instead of manually clicking through the AWS Console.
 
 
 
-\## Resources Provisioned
+## Resources Provisioned
 
 \- \*\*S3 Bucket\*\* with environment and project tags
 
