@@ -1,4 +1,4 @@
-\# AWS Terraform Starter
+# AWS Terraform Starter
 
 
 
